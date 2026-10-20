@@ -1,7 +1,9 @@
 # Contributing
 
-All contributions, bug reports, bug fixes, documentation improvements,
-enhancements, and ideas are welcome.
+## All contributions are welcome!
+
+**All contributions, bug reports, bug fixes, documentation improvements,
+enhancements, and ideas are welcome.**
 
 ## How to contribute
 1. Fork the repository.
@@ -11,3 +13,6 @@ enhancements, and ideas are welcome.
 
 ## Reporting bugs
 Open an issue with steps to reproduce, expected and actual behavior.
+
+## Suggesting enhancements
+Open an issue describing your idea and why it would be useful.
